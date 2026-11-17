@@ -3,6 +3,8 @@ A collection of hands-on HTML and CSS lessons, exercises, and projects completed
 
 
 # HTML & CSS Course
+HTML_CSS_course :
+A collection of hands-on HTML and CSS lessons, exercises, and projects completed while learning through the SuperSimpleDev HTML &amp; CSS course. Covers fundamental web development concepts, including HTML elements, CSS styling, layouts, Flexbox, Grid, and positioning.
 
 A collection of hands-on lessons, exercises, and projects completed while learning HTML and CSS through the [SuperSimpleDev HTML & CSS Course](https://www.youtube.com/watch?v=G3e-cpL7ofc).
 
